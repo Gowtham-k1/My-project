@@ -1,0 +1,63 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.title{
+    font-size: 25px;
+    font-weight:600;
+    word-spacing: 5px;
+}
+
+.content{
+    border-radius: 8px;
+    background-color: rgb(213, 237, 254);
+}
+
+.instruction{
+    font-size: 22px;
+    font-weight:600;
+}
+
+.form-control{
+    height:30px !important;
+    border-radius: 3px !important;
+    border: none;
+}
+
+.colon{
+    margin-left: 23px;
+}
+
+.colon2{
+    margin-left: 101px;
+}
+
+.colon3{
+    margin-left: 74px;
+}
+
+.colon4{
+    margin-left: 22px;
+}
+
+.fields{
+    margin-top: 30px;
+}
+
+
+.image{
+    margin-top: 100px;
+    margin-left: 70px;
+    height: 50%;
+    width:85%;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+img.image{
+    margin-top: 40px;
+    margin-left: 0px;
+    height: 80%;
+    width:100%;
+
+}
+}

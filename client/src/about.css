@@ -1,0 +1,27 @@
+.backimg-about{
+    background-image: url('about1.jpg');
+    height: 100%;
+    width: 100%;
+}
+.backimg-about2{
+    background-image: url('about2.jpg');
+    height: 100%;
+    width: 100%;
+}
+.backimg-about3{
+    background-image: url('about3.jpg');
+    height: 100%;
+    width: 100%;
+}
+.backimg-about4{
+    background-image: url('about4.jpg');
+    height: 100%;
+    width: 100%;
+}
+.head1{
+    color: rgb(94, 94, 237);
+}
+span{
+    font-size: 2em;
+    font-weight: 500;
+}

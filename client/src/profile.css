@@ -1,0 +1,9 @@
+.backimg-profile{
+    background-image: url('profileback.jpg');
+    width: 100vw;
+    height: 50vh;
+}
+.content-size{
+    font-size:1.2em;
+    font-weight:500;
+}

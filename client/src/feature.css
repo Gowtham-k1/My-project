@@ -1,0 +1,12 @@
+.feature-card{
+    width:20rem;
+    
+}
+.features-border{
+   border: none;
+   outline: none;
+}
+.feature-para{
+    
+    font-size: smaller;
+}

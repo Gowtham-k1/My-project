@@ -1,0 +1,94 @@
+[
+    {   "id":1,
+        "user_name":"Thamarai kannan T R",
+        "img":"https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
+         "desgnation":"web developer",
+         "rating":4,
+         "location":"chennai"
+       
+      },
+      {
+        "id":2,
+        "user_name":"Gowtham.k",
+        "img":"https://st4.depositphotos.com/2760050/24301/i/600/depositphotos_243011410-stock-photo-man-with-bristle-on-calm.jpg",
+         "desgnation":"web developer",
+         "rating":3.5,
+         "location":"coimbatore"
+       
+      },
+      {
+        "id":3,
+        "user_name":"Ajith Ram",
+        "img":"https://media.istockphoto.com/id/1390884026/photo/young-man-on-a-taking-selfie-at-home-camera-point-of-view.jpg?b=1&s=170667a&w=0&k=20&c=BTUIZ3qvB2y7IO-ThRmeB1tTOUlhWvO4AipB2fgTJ18=",
+         "desgnation":"software developer",
+         "rating":4,
+         "location":"madurai"
+       
+      },
+      {
+        "id":4,
+        "user_name":"Sanjeevee",
+        "img":"https://media.istockphoto.com/id/1351445530/photo/african-student-sitting-in-classroom.jpg?b=1&s=170667a&w=0&k=20&c=0M-gtlR1M_x9sYGarPG44f54s5cBBdHTsPxmzNzHbAE=",
+         "desgnation":"Full Stack developer",
+         "rating":4.5,
+         "location":"chennai"
+       
+      },
+      {
+        "id":5,
+        "user_name":"Chitra devi .M",
+        "img":"https://www.savethestudent.org/uploads/woman-on-laptop-cafe-colourful-background.jpg",
+         "desgnation":"javascript  developer",
+         "rating":5,
+         "location":"chennai"
+       
+      },
+      {
+        "id":6,
+        "user_name":"Keerthana R",
+        "img":"https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/04/first-freelance-software-developer-gig-1128x635.jpg",
+         "desgnation":"react js developer",
+         "rating":4,
+         "location":"saravanam patti"
+       
+      },
+      {
+        "id":7,
+        "user_name":"Shanmugam",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfsL4mnC2yljui2KdkB1hQh-jIQt2Ve0EEg&usqp=CAU",
+         "desgnation":" front end developer",
+         "rating":4,
+         "location":"chennai"
+       
+      },
+      {
+        "id":8,
+        "user_name":"Gowtham M",
+        "img":"https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F83afb31c-38fc-11e9-9988-28303f70fcff?fit=scale-down&source=next&width=700",
+         "desgnation":"backend developer",
+         "rating":4,
+         "location":"chennai"
+       
+      }, 
+      {
+        "id":9,
+        "user_name":"deva",
+        "img":"https://www.apetogentleman.com/wp-content/uploads/2022/05/FALL-WINTER-TRENDS.jpg",
+         "desgnation":"full stack developer",
+         "rating":5,
+         "location":"chennai"
+       
+      }
+   
+   
+   
+   
+   
+   
+   
+   
+      
+   
+      
+   
+   ]

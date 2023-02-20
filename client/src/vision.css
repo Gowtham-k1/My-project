@@ -1,0 +1,11 @@
+.vision-img{
+    background-image: url('vision.jpg');
+    background-size: cover;
+}
+
+.vision-para{
+    background-color: rgb(98, 98, 255);
+}
+.head2{
+    font-size: 2em;
+}
